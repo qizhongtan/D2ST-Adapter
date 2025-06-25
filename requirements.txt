@@ -1,0 +1,12 @@
+simplejson==3.11.1
+decord>=0.6.0
+pyyaml
+einops
+oss2
+psutil
+pandas
+tqdm
+safetensors==0.4.1
+timm==0.9.12
+joblib
+fvcore

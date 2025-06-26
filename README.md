@@ -1,4 +1,4 @@
-# D$^2$ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition
+# [ICCV2025] D$^2$ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition
 
 [📖 Paper](https://arxiv.org/abs/2312.01431)
 
